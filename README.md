@@ -1,5 +1,5 @@
-# AdvancedLab
-Files for advanced lab
+# Optics Lab
+Files for optics lab
 
 # How to use :)
 First, make sure Git is installed on your computer by typing the following command into your command prompt/terminal:
