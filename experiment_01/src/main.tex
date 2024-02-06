@@ -1,0 +1,60 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin = 1in]{geometry}
+\usepackage[english]{babel}
+\usepackage{verbatim}
+\usepackage[section]{placeins}
+\usepackage{booktabs}
+\usepackage{float}
+
+\usepackage[labelfont=bf]{caption}
+\renewcommand{\abstractname}{\vspace{-\baselineskip}}
+\usepackage{amsmath}
+\usepackage{lipsum}
+\usepackage[superscript, biblabel]{cite}
+\bibliographystyle{naturemag}
+\usepackage{graphicx}
+\graphicspath{{../figures/}}
+\setlength{\parindent}{0.5in}
+\setlength{\parskip}{1em}
+\usepackage{indentfirst}
+\usepackage{authblk}
+
+
+\title{Optical Activity of Sugar \\
+    \large Optics Lab 2024}
+
+\author{Matthew Vanden Berk \& Will Mallah}
+\affil{Department of Physics, Saint Vincent College}
+\date{\today}
+
+\begin{document}
+    \maketitle
+
+    \begin{abstract}
+        \input{abstract.tex}
+    \end{abstract}
+\newpage
+
+    \section{Introduction}
+    \input{intro.tex}
+
+	\newpage
+    \section{Methods}
+    \input{methods.tex}
+
+	\newpage
+    \section{Data and Results}
+    \input{data_results.tex}
+
+	\newpage
+    \section{Discussion}
+    \input{discussion.tex}
+    
+   	\newpage
+    \section{Conclusion}
+    \input{conclusion.tex}
+
+    \newpage
+    \bibliography{main}
+\end{document}
