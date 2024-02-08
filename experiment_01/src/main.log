@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.22)  5 FEB 2024 23:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.22)  6 FEB 2024 11:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -223,8 +223,7 @@ Package: authblk 2001/02/27 1.3 (PWD)
 \c@Maxaffil=\count287
 \c@authors=\count288
 \c@affil=\count289
-)
-No file main.aux.
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -241,6 +240,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -301,15 +301,15 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 No file main.bbl.
 (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 5825 strings out of 476025
- 103653 string characters out of 5790017
+ 5827 strings out of 476025
+ 103671 string characters out of 5790017
  1851388 words of memory out of 5000000
  26211 multiletter control sequences out of 15000+600000
  514396 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,5n,77p,326b,202s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (6 pages, 51659 bytes).
+Output written on main.pdf (6 pages, 51665 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
