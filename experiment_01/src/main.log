@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.22)  19 FEB 2024 20:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.22)  20 FEB 2024 01:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -206,45 +206,56 @@ Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 LaTeX Info: Redefining \bm on input line 219.
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count279
+\float@exts=\toks26
+\float@box=\box70
+\@float@everytoks=\toks27
+\@floatcapt=\box71
 )
-Class revtex4-2 Info: Unrecognized array package. Please update this document class! (Proceeding with fingers crossed.) on input line 68.
-Class revtex4-2 Info: cite was not loaded (OK!) on input line 68.
-Class revtex4-2 Info: mcite was not loaded (OK!) on input line 68.
-Class revtex4-2 Info: multicol was not loaded (OK!) on input line 68.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+Class revtex4-2 Info: Unrecognized array package. Please update this document class! (Proceeding with fingers crossed.) on input line 39.
+
+
+Class revtex4-2 Warning: Repair the float package.
+
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 39.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 39.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 39.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
-\l__pdf_internal_box=\box70
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box72
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
+\scratchcounter=\count281
 \scratchdimen=\dimen153
-\scratchbox=\box71
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count283
+\scratchbox=\box73
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count284
 \MPscratchDim=\dimen154
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks29
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -253,7 +264,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \openout3 = `mainNotes.bib'.
 
- (./abstract.tex) (./intro.tex) (./methods.tex) [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./data_results.tex
+ (./abstract.tex) (./intro.tex) (./methods.tex) (./data_results.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -261,76 +272,74 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-(./discussion.tex) [2]
-
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 106.
-
-(./conclusion.tex) [3]
-
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 145.
-
+) [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]) (./discussion.tex
+<../figures/no_water.png, id=17, 462.528pt x 346.896pt>
+File: ../figures/no_water.png Graphic file (type png)
+<use ../figures/no_water.png>
+Package pdftex.def Info: ../figures/no_water.png  used on input line 3.
+(pdftex.def)             Requested size: 246.0pt x 184.49977pt.
+ [4]
+<../figures/water.png, id=22, 462.528pt x 346.896pt>
+File: ../figures/water.png Graphic file (type png)
+<use ../figures/water.png>
+Package pdftex.def Info: ../figures/water.png  used on input line 11.
+(pdftex.def)             Requested size: 246.0pt x 184.49977pt.
+<../figures/solution1.png, id=23, 462.528pt x 346.896pt>
+File: ../figures/solution1.png Graphic file (type png)
+<use ../figures/solution1.png>
+Package pdftex.def Info: ../figures/solution1.png  used on input line 19.
+(pdftex.def)             Requested size: 246.0pt x 184.49977pt.
+<../figures/solution2.png, id=24, 462.528pt x 346.896pt>
+File: ../figures/solution2.png Graphic file (type png)
+<use ../figures/solution2.png>
+Package pdftex.def Info: ../figures/solution2.png  used on input line 27.
+(pdftex.def)             Requested size: 246.0pt x 184.49977pt.
+<../figures/solution3.png, id=25, 462.528pt x 346.896pt>
+File: ../figures/solution3.png Graphic file (type png)
+<use ../figures/solution3.png>
+Package pdftex.def Info: ../figures/solution3.png  used on input line 35.
+(pdftex.def)             Requested size: 246.0pt x 184.49977pt.
+ [5 <../figures/no_water.png> <../figures/water.png> <../figures/solution1.png> <../figures/solution2.png>]
+<../figures/solution4.png, id=33, 462.528pt x 346.896pt>
+File: ../figures/solution4.png Graphic file (type png)
+<use ../figures/solution4.png>
+Package pdftex.def Info: ../figures/solution4.png  used on input line 43.
+(pdftex.def)             Requested size: 246.0pt x 184.49977pt.
+<../figures/large_beaker_phase_shifts.png, id=34, 462.528pt x 346.896pt>
+File: ../figures/large_beaker_phase_shifts.png Graphic file (type png)
+<use ../figures/large_beaker_phase_shifts.png>
+Package pdftex.def Info: ../figures/large_beaker_phase_shifts.png  used on input line 56.
+(pdftex.def)             Requested size: 246.0pt x 184.49977pt.
+<../figures/medium_beaker_phase_shifts.png, id=35, 462.528pt x 346.896pt>
+File: ../figures/medium_beaker_phase_shifts.png Graphic file (type png)
+<use ../figures/medium_beaker_phase_shifts.png>
+Package pdftex.def Info: ../figures/medium_beaker_phase_shifts.png  used on input line 64.
+(pdftex.def)             Requested size: 246.0pt x 184.49977pt.
+<../figures/small_beaker_phase_shifts.png, id=36, 462.528pt x 346.896pt>
+File: ../figures/small_beaker_phase_shifts.png Graphic file (type png)
+<use ../figures/small_beaker_phase_shifts.png>
+Package pdftex.def Info: ../figures/small_beaker_phase_shifts.png  used on input line 72.
+(pdftex.def)             Requested size: 246.0pt x 184.49977pt.
+) [6 <../figures/solution3.png> <../figures/solution4.png> <../figures/large_beaker_phase_shifts.png> <../figures/medium_beaker_phase_shifts.png>] (./conclusion.tex)
 No file main.bbl.
-[4] [5] [6] (./main.aux) ) 
+[7 <../figures/small_beaker_phase_shifts.png>] (./main.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4856 strings out of 476025
- 69580 string characters out of 5790017
- 1901388 words of memory out of 5000000
- 25246 multiletter control sequences out of 15000+600000
- 522809 words of font info for 71 fonts, out of 8000000 for 9000
+ 4974 strings out of 476025
+ 72695 string characters out of 5790017
+ 1892388 words of memory out of 5000000
+ 25356 multiletter control sequences out of 15000+600000
+ 519746 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,8n,76p,295b,317s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (6 pages, 124651 bytes).
+ 71i,8n,76p,579b,288s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on main.pdf (7 pages, 233424 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

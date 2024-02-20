@@ -1,33 +1,3 @@
-% \documentclass[12pt, letterpaper]{article}
-% \usepackage[utf8]{inputenc}
-% \usepackage[margin = 1in]{geometry}
-% \usepackage[english]{babel}
-% \usepackage{verbatim}
-% \usepackage[section]{placeins}
-% \usepackage{booktabs}
-% \usepackage{float}
-
-% \usepackage[labelfont=bf]{caption}
-% \renewcommand{\abstractname}{\vspace{-\baselineskip}}
-% \usepackage{amsmath}
-% \usepackage{lipsum}
-% \usepackage[superscript, biblabel]{cite}
-% \bibliographystyle{naturemag}
-% \usepackage{graphicx}
-% \graphicspath{{../figures/}}
-% \setlength{\parindent}{0.5in}
-% \setlength{\parskip}{1em}
-% \usepackage{indentfirst}
-% \usepackage{authblk}
-
-
-% \title{Optical Activity of Sugar \\
-%     \large Optics Lab 2024}
-
-% \author{Matthew Vanden Berk \& William Mallah}
-% \affil{Department of Physics, Saint Vincent College}
-% \date{\today}
-
 \documentclass[%
  reprint,
 %superscriptaddress,
@@ -53,6 +23,7 @@
 \usepackage{graphicx}% Include figure files
 \usepackage{dcolumn}% Align table columns on decimal point
 \usepackage{bm}% bold math
+\usepackage{float}
 %\usepackage{hyperref}% add hypertext capabilities
 %\usepackage[mathlines]{lineno}% Enable numbering of text and display math
 %\linenumbers\relax % Commence numbering lines
@@ -90,91 +61,18 @@
 \section{Introduction}
 \input{intro.tex}
 
-\newpage
 \section{Methods}
 \input{methods.tex}
 
-\newpage
 \section{Data and Results}
 \input{data_results.tex}
 
-\newpage
 \section{Discussion}
 \input{discussion.tex}
 
-\newpage
 \section{Conclusion}
 \input{conclusion.tex}
-
-\newpage
-\begin{acknowledgments}
-    We wish to acknowledge the support of the author community in using
-    REV\TeX{}, offering suggestions and encouragement, testing new versions,
-    \dots.
-    \end{acknowledgments}
     
-    \appendix
-    
-    \section{Appendixes}
-    
-    To start the appendixes, use the \verb+\appendix+ command.
-    This signals that all following section commands refer to appendixes
-    instead of regular sections. Therefore, the \verb+\appendix+ command
-    should be used only once---to setup the section commands to act as
-    appendixes. Thereafter normal section commands are used. The heading
-    for a section can be left empty. For example,
-    \begin{verbatim}
-    \appendix
-    \section{}
-    \end{verbatim}
-    will produce an appendix heading that says ``APPENDIX A'' and
-    \begin{verbatim}
-    \appendix
-    \section{Background}
-    \end{verbatim}
-    will produce an appendix heading that says ``APPENDIX A: BACKGROUND''
-    (note that the colon is set automatically).
-    
-    If there is only one appendix, then the letter ``A'' should not
-    appear. This is suppressed by using the star version of the appendix
-    command (\verb+\appendix*+ in the place of \verb+\appendix+).
-    
-    \section{A little more on appendixes}
-    
-    Observe that this appendix was started by using
-    \begin{verbatim}
-    \section{A little more on appendixes}
-    \end{verbatim}
-    
-    Note the equation number in an appendix:
-    \begin{equation}
-    E=mc^2.
-    \end{equation}
-    
-    \subsection{\label{app:subsec}A subsection in an appendix}
-    
-    You can use a subsection or subsubsection in an appendix. Note the
-    numbering: we are now in Appendix~\ref{app:subsec}.
-    
-    Note the equation numbers in this appendix, produced with the
-    subequations environment:
-    \begin{subequations}
-    \begin{eqnarray}
-    E&=&mc, \label{appa}
-    \\
-    E&=&mc^2, \label{appb}
-    \\
-    E&\agt& mc^3. \label{appc}
-    \end{eqnarray}
-    \end{subequations}
-    They turn out to be Eqs.~(\ref{appa}), (\ref{appb}), and (\ref{appc}).
-    
-    % The \nocite command causes all entries in a bibliography to be printed out
-    % whether or not they are actually referenced in the text. This is appropriate
-    % for the sample file to show the different styles of references, but authors
-    % most likely will not want to use it.
-    \nocite{*}
-    
-    \bibliography{apssamp}% Produces the bibliography via BibTeX.
+\bibliography{apssamp}% Produces the bibliography via BibTeX.
 
 \end{document}
