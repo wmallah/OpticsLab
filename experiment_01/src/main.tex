@@ -23,7 +23,8 @@
 \usepackage{graphicx}% Include figure files
 \usepackage{dcolumn}% Align table columns on decimal point
 \usepackage{bm}% bold math
-\usepackage{float}
+\usepackage{float}% for positioning tables and figures
+\usepackage{booktabs}% \toprule, \midrule, \bottomrule
 %\usepackage{hyperref}% add hypertext capabilities
 %\usepackage[mathlines]{lineno}% Enable numbering of text and display math
 %\linenumbers\relax % Commence numbering lines
@@ -35,6 +36,8 @@
 %%total={6.5in,8.75in}, top=1.2in, left=0.9in, includefoot,
 %%height=10in,a5paper,hmargin={3cm,0.8in},
 %]{geometry}
+
+\renewcommand{\thetable}{\arabic{table}}
 
 \begin{document}
 
