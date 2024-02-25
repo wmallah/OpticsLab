@@ -1,63 +1,56 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.2.20)  24 FEB 2024 20:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.22)  24 FEB 2024 20:41
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-29>
-(/home/wmallah/.miktex/texmfs/install/tex/latex/revtex/revtex4-2.cls
-Document Class: revtex4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for
- documentation)
+**/Users/wmallah/Documents/GitHub/OpticsLab/experiment_01/src/main
+(/Users/wmallah/Documents/GitHub/OpticsLab/experiment_01/src/main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/revtex/revtex4-2.cls
+Document Class: revtex4-2 2020/10/03 4.2e (https://journals.aps.org/revtex/ for documentation)
  Copyright (c) 2019 American Physical Society.
  mailto:revtex@aps.org
  Licensed under the LPPL:
 http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
  Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
  Based on work by David Carlisle <david at dcarlisle.demon.co.uk>
- Version (4.2d--4.2f): Modified by Mark Doyle and Phelype Oleinik
+ Version (4.2d,4.2e): Modified by Mark Doyle and Phelype Oleinik
  .
-ltxutil[2022/06/05 4.2f utilities package (portions licensed from W. E. Baxter 
-web at superscript.com)]
+ltxutil[2020/10/03 4.2e utilities package (portions licensed from W. E. Baxter web at superscript.com)]
 LaTeX Info: Redefining \@centercr on input line 356.
-Class revtex4-2 Info: Repairing broken LaTeX eqnarray on input line 417.
-\eqncolsep=\skip48
-Class revtex4-2 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
-note on input line 492.
-Class revtex4-2 Info: Repairing broken LateX \@sect on input line 814.
+Class revtex4-2 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfootnote on input line 481.
+Class revtex4-2 Info: Repairing broken LateX \@sect on input line 803.
 \intertabularlinepenalty=\count185
 \@tbpen=\count186
 \@arstrutbox@hline=\box51
-Class revtex4-2 Info: Repairing broken LaTeX \@xbitor on input line 1845.
-Class revtex4-2 Info: Making \typeout \long on input line 2110.
-ltxfront[2022/06/05 4.2f frontmatter package (AO,DPC,MD)]
+Class revtex4-2 Info: Repairing broken LaTeX \@xbitor on input line 1834.
+Class revtex4-2 Info: Making \typeout \long on input line 2099.
+ltxfront[2020/10/03 4.2e frontmatter package (AO,DPC,MD)]
 \c@affil=\count187
 \c@collab=\count188
 \absbox=\box52
-ltxgrid[2022/06/05 4.2f page grid package (portions licensed from W. E. Baxter 
-web at superscript.com)]
+ltxgrid[2020/10/03 4.2e page grid package (portions licensed from W. E. Baxter web at superscript.com)]
 \c@linecount=\count189
-\output@latex=\toks17
+\output@latex=\toks16
 \box@size@1=\box53
 \box@size@2=\box54
 \@protection@box=\box55
-\@topmark@saved=\toks18
+\@topmark@saved=\toks17
 \footins@saved=\box56
 \footins@recovered=\box57
 \column@recovered=\box58
 \pagesofar=\box59
 \footsofar=\box60
 \pagegrid@col=\count190
-Class revtex4-2 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
- \\  on input line 5676.
+Class revtex4-2 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and \\  on input line 5665.
 \c@part=\count191
 \c@section=\count192
 \c@subsection=\count193
 \c@subsubsection=\count194
 \c@paragraph=\count195
 \c@subparagraph=\count196
-\abovecaptionskip=\skip49
-\belowcaptionskip=\skip50
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
 \c@figure=\count197
 \fbox@1=\box61
 \c@table=\count198
@@ -67,57 +60,48 @@ Class revtex4-2 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
 \@bibdataout=\write3
 \widetext@top=\box64
 \widetext@bot=\box65
-Class revtex4-2 Info: Selecting society aps on input line 7669.
-(/home/wmallah/.miktex/texmfs/install/tex/latex/revtex/aps4-2.rtx
-File: aps4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for documentatio
-n)
+Class revtex4-2 Info: Selecting society aps on input line 7658.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/revtex/aps4-2.rtx
+File: aps4-2 2020/10/03 4.2e (https://journals.aps.org/revtex/ for documentation)
 Class revtex4-2 Info: RevTeX society APS selected on input line 40.
 )
 
 Class revtex4-2 Warning: No journal specified, using default pra.
 
-Class revtex4-2 Info: APS journal PRA selected on input line 7672.
-(/home/wmallah/.miktex/texmfs/install/tex/latex/revtex/aps10pt4-2.rtx
-File: aps10pt4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for document
-ation)
+Class revtex4-2 Info: APS journal PRA selected on input line 7661.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/revtex/aps10pt4-2.rtx
+File: aps10pt4-2 2020/10/03 4.2e (https://journals.aps.org/revtex/ for documentation)
 Class revtex4-2 Info: RevTeX pointsize 10pt selected on input line 39.
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/textcase/textcase.sty
-Package: textcase 2023/07/27 v1.04 Text only upper/lower case changing (DPC)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2022/07/10 v1.03 Text only upper/lower case changing (DPC)
 Package textcase Info: Defining Legacy names on input line 20.
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/home/wmallah/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks19
+\@emptytoks=\toks18
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/home/wmallah/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip51
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
-(/home/wmallah/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-
-(/home/wmallah/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks20
+\@emptytoks=\toks19
 \ex@=\dimen140
 )
 LaTeX Info: Redefining \text on input line 28.
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen141
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count266
@@ -150,83 +134,70 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip16
 \c@parentequation=\count273
 \dspbrk@lvl=\count274
-\tag@help=\toks21
+\tag@help=\toks20
 \row@=\count275
 \column@=\count276
 \maxfields@=\count277
-\andhelp@=\toks22
+\andhelp@=\toks21
 \eqnshift@=\dimen143
 \alignsep@=\dimen144
 \tagshift@=\dimen145
 \tagwidth@=\dimen146
 \totwidth@=\dimen147
 \lineht@=\dimen148
-\@envbody=\toks23
-\multlinegap=\skip52
-\multlinetaggap=\skip53
-\mathdisplay@stack=\toks24
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/url/url.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/natbib/natbib.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip54
-\bibsep=\skip55
+\bibhang=\skip53
+\bibsep=\skip54
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count278
 )
-Class revtex4-2 Info: Repairing natbib's \BibitemShut on input line 7676.
-
-(/home/wmallah/.miktex/texmfs/install/tex/latex/revtex/revsymb4-2.sty
-Package: revsymb4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for docum
-entation)
+Class revtex4-2 Info: Repairing natbib's \BibitemShut on input line 7665.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/revtex/revsymb4-2.sty
+Package: revsymb4-2 2020/10/03 4.2e (https://journals.aps.org/revtex/ for documentation)
 LaTeX Info: Redefining \frak on input line 104.
 LaTeX Info: Redefining \Bbb on input line 120.
 LaTeX Info: Redefining \REV@mathfrak on input line 128.
-))
-(/home/wmallah/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/home/wmallah/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks25
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+\KV@toks@=\toks24
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(/home/wmallah/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(/home/wmallah/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/tools/dcolumn.sty
-Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
-
-(/home/wmallah/.miktex/texmfs/install/tex/latex/tools/array.sty
-Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen151
 \ar@mcellbox=\box68
 \extrarowheight=\dimen152
-\NC@list=\toks26
-\extratabsurround=\skip56
-\backup@length=\skip57
+\NC@list=\toks25
+\extratabsurround=\skip55
+\backup@length=\skip56
 \ar@cellbox=\box69
-))
-(/home/wmallah/.miktex/texmfs/install/tex/latex/tools/bm.sty
-Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
 \symboldsymbols=\mathgroup8
@@ -235,16 +206,14 @@ Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 LaTeX Info: Redefining \bm on input line 219.
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/float/float.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count279
-\float@exts=\toks27
+\float@exts=\toks26
 \float@box=\box70
-\@float@everytoks=\toks28
+\@float@everytoks=\toks27
 \@floatcapt=\box71
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/booktabs/booktabs.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen153
 \lightrulewidth=\dimen154
@@ -264,8 +233,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count283
 \@thisrulewidth=\dimen165
 )
-Class revtex4-2 Info: Unrecognized array package. Please update this document c
-lass! (Proceeding with fingers crossed.) on input line 42.
+Class revtex4-2 Info: Unrecognized array package. Please update this document class! (Proceeding with fingers crossed.) on input line 42.
 
 
 Class revtex4-2 Warning: Repair the float package.
@@ -273,11 +241,11 @@ Class revtex4-2 Warning: Repair the float package.
 Class revtex4-2 Info: cite was not loaded (OK!) on input line 42.
 Class revtex4-2 Info: mcite was not loaded (OK!) on input line 42.
 Class revtex4-2 Info: multicol was not loaded (OK!) on input line 42.
-(/home/wmallah/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 \l__pdf_internal_box=\box72
-) (main.aux)
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
@@ -294,157 +262,105 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
-
-(/home/wmallah/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count285
 \scratchdimen=\dimen166
 \scratchbox=\box73
 \nofMPsegments=\count286
 \nofMParguments=\count287
-\everyMPshowfont=\toks29
+\everyMPshowfont=\toks28
 \MPscratchCnt=\count288
 \MPscratchDim=\dimen167
 \MPnumerator=\count289
 \makeMPintoPDFobject=\count290
-\everyMPtoPDFconversion=\toks30
-)
-(/home/wmallah/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\everyMPtoPDFconversion=\toks29
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/home/wmallah/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \openout3 = `mainNotes.bib'.
 
-
-(abstract.tex) (intro.tex
-Underfull \hbox (badness 6220) in paragraph at lines 6--7
-[]\OT1/cmr/m/n/10 Understanding how the concentration of sugar
- []
-
-
-Underfull \hbox (badness 2469) in paragraph at lines 6--7
-\OT1/cmr/m/n/10 in solution has practical applications in medicine.
- []
-
-)
-Underfull \hbox (badness 1127) in paragraph at lines 9--66
-\OT1/cmr/m/n/10 consisted of two Polaroid polarizers: an individual
- []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 9--66
-\OT1/cmr/m/n/10 solution beaker. Knowing both these polarizations
- []
-
-(methods.tex) (data_results.tex
+ (./abstract.tex) (./intro.tex) (./methods.tex) (./data_results.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
-
-
-(/home/wmallah/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
-
-
-(/home/wmallah/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1{/home/wmallah/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] [2] [3]) (
-discussion.tex
-<../figures/no_water.png, id=18, 502.2765pt x 377.2494pt>
+) [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]) (./discussion.tex
+<../figures/no_water.png, id=19, 502.2765pt x 377.2494pt>
 File: ../figures/no_water.png Graphic file (type png)
 <use ../figures/no_water.png>
 Package pdftex.def Info: ../figures/no_water.png  used on input line 5.
 (pdftex.def)             Requested size: 246.0pt x 184.76747pt.
-
-[4]
-<../figures/water.png, id=23, 497.2176pt x 377.2494pt>
+ [4]
+<../figures/water.png, id=24, 497.2176pt x 377.2494pt>
 File: ../figures/water.png Graphic file (type png)
 <use ../figures/water.png>
 Package pdftex.def Info: ../figures/water.png  used on input line 13.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
-<../figures/solution1.png, id=24, 496.4949pt x 376.5267pt>
+<../figures/solution1.png, id=25, 496.4949pt x 376.5267pt>
 File: ../figures/solution1.png Graphic file (type png)
 <use ../figures/solution1.png>
 Package pdftex.def Info: ../figures/solution1.png  used on input line 21.
 (pdftex.def)             Requested size: 246.0pt x 186.56226pt.
-<../figures/solution2.png, id=25, 497.2176pt x 377.2494pt>
+<../figures/solution2.png, id=26, 497.2176pt x 377.2494pt>
 File: ../figures/solution2.png Graphic file (type png)
 <use ../figures/solution2.png>
 Package pdftex.def Info: ../figures/solution2.png  used on input line 29.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
-<../figures/solution3.png, id=26, 497.2176pt x 377.2494pt>
+<../figures/solution3.png, id=27, 497.2176pt x 377.2494pt>
 File: ../figures/solution3.png Graphic file (type png)
 <use ../figures/solution3.png>
 Package pdftex.def Info: ../figures/solution3.png  used on input line 37.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
- [5 <../figures/no_water.png> <../figures/water.png> <../figures/solution1.png>
- <../figures/solution2.png>]
-<../figures/solution4.png, id=34, 497.2176pt x 377.2494pt>
+ [5 <../figures/no_water.png> <../figures/water.png> <../figures/solution1.png> <../figures/solution2.png>]
+<../figures/solution4.png, id=35, 497.2176pt x 377.2494pt>
 File: ../figures/solution4.png Graphic file (type png)
 <use ../figures/solution4.png>
 Package pdftex.def Info: ../figures/solution4.png  used on input line 45.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
-<../figures/large_beaker_phase_shifts.png, id=35, 502.2765pt x 377.2494pt>
+<../figures/large_beaker_phase_shifts.png, id=36, 502.2765pt x 377.2494pt>
 File: ../figures/large_beaker_phase_shifts.png Graphic file (type png)
 <use ../figures/large_beaker_phase_shifts.png>
-Package pdftex.def Info: ../figures/large_beaker_phase_shifts.png  used on inpu
-t line 57.
+Package pdftex.def Info: ../figures/large_beaker_phase_shifts.png  used on input line 57.
 (pdftex.def)             Requested size: 246.0pt x 184.76747pt.
-<../figures/medium_beaker_phase_shifts.png, id=36, 502.2765pt x 377.2494pt>
+<../figures/medium_beaker_phase_shifts.png, id=37, 502.2765pt x 377.2494pt>
 File: ../figures/medium_beaker_phase_shifts.png Graphic file (type png)
 <use ../figures/medium_beaker_phase_shifts.png>
-Package pdftex.def Info: ../figures/medium_beaker_phase_shifts.png  used on inp
-ut line 65.
+Package pdftex.def Info: ../figures/medium_beaker_phase_shifts.png  used on input line 65.
 (pdftex.def)             Requested size: 246.0pt x 184.76747pt.
-<../figures/small_beaker_phase_shifts.png, id=37, 502.2765pt x 377.2494pt>
+<../figures/small_beaker_phase_shifts.png, id=38, 502.2765pt x 377.2494pt>
 File: ../figures/small_beaker_phase_shifts.png Graphic file (type png)
 <use ../figures/small_beaker_phase_shifts.png>
-Package pdftex.def Info: ../figures/small_beaker_phase_shifts.png  used on inpu
-t line 73.
+Package pdftex.def Info: ../figures/small_beaker_phase_shifts.png  used on input line 73.
 (pdftex.def)             Requested size: 246.0pt x 184.76747pt.
- [6 <../figures/solution3.png> <../figures/solution4.png> <../figures/large_bea
-ker_phase_shifts.png> <../figures/medium_beaker_phase_shifts.png>]
-<../figures/concentration_times_diameter_phase_shifts.png, id=46, 502.2765pt x 
-382.3083pt>
-File: ../figures/concentration_times_diameter_phase_shifts.png Graphic file (ty
-pe png)
+ [6 <../figures/solution3.png> <../figures/solution4.png> <../figures/large_beaker_phase_shifts.png> <../figures/medium_beaker_phase_shifts.png>]
+<../figures/concentration_times_diameter_phase_shifts.png, id=47, 502.2765pt x 382.3083pt>
+File: ../figures/concentration_times_diameter_phase_shifts.png Graphic file (type png)
 <use ../figures/concentration_times_diameter_phase_shifts.png>
-Package pdftex.def Info: ../figures/concentration_times_diameter_phase_shifts.p
-ng  used on input line 81.
+Package pdftex.def Info: ../figures/concentration_times_diameter_phase_shifts.png  used on input line 81.
 (pdftex.def)             Requested size: 246.0pt x 187.2452pt.
-) (conclusion.tex)
+) (./conclusion.tex)
 No file main.bbl.
-[7 <../figures/small_beaker_phase_shifts.png> <../figures/concentration_times_d
-iameter_phase_shifts.png>] (main.aux)
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-29>
- ***********
- ) 
+[7 <../figures/small_beaker_phase_shifts.png> <../figures/concentration_times_diameter_phase_shifts.png>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 5027 strings out of 477183
- 73158 string characters out of 5809388
- 1957791 words of memory out of 5000000
- 26244 multiletter control sequences out of 15000+600000
- 568423 words of font info for 74 fonts, out of 8000000 for 9000
- 0 hyphenation exceptions out of 8191
- 71i,9n,79p,1022b,289s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.p
-fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx9.p
-fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.
-pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi9.
-pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.
-pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.p
-fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.p
-fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti9.p
-fb>
-Output written on main.pdf (7 pages, 366027 bytes).
+ 5057 strings out of 476025
+ 74201 string characters out of 5790017
+ 1890388 words of memory out of 5000000
+ 25428 multiletter control sequences out of 15000+600000
+ 522641 words of font info for 70 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,9n,76p,1076b,288s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on main.pdf (7 pages, 358941 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
