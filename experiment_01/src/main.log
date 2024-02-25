@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.2.20)  23 FEB 2024 23:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.2.20)  24 FEB 2024 20:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -321,117 +321,130 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 
 (abstract.tex) (intro.tex
-Underfull \hbox (badness 6220) in paragraph at lines 11--12
+Underfull \hbox (badness 6220) in paragraph at lines 6--7
 []\OT1/cmr/m/n/10 Understanding how the concentration of sugar
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 11--12
+Underfull \hbox (badness 2469) in paragraph at lines 6--7
 \OT1/cmr/m/n/10 in solution has practical applications in medicine.
  []
 
 )
-Underfull \hbox (badness 1127) in paragraph at lines 17--66
+Underfull \hbox (badness 1127) in paragraph at lines 9--66
 \OT1/cmr/m/n/10 consisted of two Polaroid polarizers: an individual
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 17--66
+Underfull \hbox (badness 1009) in paragraph at lines 9--66
 \OT1/cmr/m/n/10 solution beaker. Knowing both these polarizations
  []
 
 (methods.tex) (data_results.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
 
 
 (/home/wmallah/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 
 
 (/home/wmallah/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{/home/wmallah/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] [2] [3]) (
 discussion.tex
-<../figures/no_water.png, id=16, 502.2765pt x 377.2494pt>
+<../figures/no_water.png, id=18, 502.2765pt x 377.2494pt>
 File: ../figures/no_water.png Graphic file (type png)
 <use ../figures/no_water.png>
-Package pdftex.def Info: ../figures/no_water.png  used on input line 3.
+Package pdftex.def Info: ../figures/no_water.png  used on input line 5.
 (pdftex.def)             Requested size: 246.0pt x 184.76747pt.
-<../figures/water.png, id=18, 497.2176pt x 377.2494pt>
+
+[4]
+<../figures/water.png, id=23, 497.2176pt x 377.2494pt>
 File: ../figures/water.png Graphic file (type png)
 <use ../figures/water.png>
-Package pdftex.def Info: ../figures/water.png  used on input line 11.
+Package pdftex.def Info: ../figures/water.png  used on input line 13.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
-
-[4 <../figures/no_water.png>]
-<../figures/solution1.png, id=23, 496.4949pt x 376.5267pt>
+<../figures/solution1.png, id=24, 496.4949pt x 376.5267pt>
 File: ../figures/solution1.png Graphic file (type png)
 <use ../figures/solution1.png>
-Package pdftex.def Info: ../figures/solution1.png  used on input line 19.
+Package pdftex.def Info: ../figures/solution1.png  used on input line 21.
 (pdftex.def)             Requested size: 246.0pt x 186.56226pt.
-<../figures/solution2.png, id=24, 497.2176pt x 377.2494pt>
+<../figures/solution2.png, id=25, 497.2176pt x 377.2494pt>
 File: ../figures/solution2.png Graphic file (type png)
 <use ../figures/solution2.png>
-Package pdftex.def Info: ../figures/solution2.png  used on input line 27.
+Package pdftex.def Info: ../figures/solution2.png  used on input line 29.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
-<../figures/solution3.png, id=25, 497.2176pt x 377.2494pt>
+<../figures/solution3.png, id=26, 497.2176pt x 377.2494pt>
 File: ../figures/solution3.png Graphic file (type png)
 <use ../figures/solution3.png>
-Package pdftex.def Info: ../figures/solution3.png  used on input line 35.
+Package pdftex.def Info: ../figures/solution3.png  used on input line 37.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
-<../figures/solution4.png, id=26, 497.2176pt x 377.2494pt>
+ [5 <../figures/no_water.png> <../figures/water.png> <../figures/solution1.png>
+ <../figures/solution2.png>]
+<../figures/solution4.png, id=34, 497.2176pt x 377.2494pt>
 File: ../figures/solution4.png Graphic file (type png)
 <use ../figures/solution4.png>
-Package pdftex.def Info: ../figures/solution4.png  used on input line 43.
+Package pdftex.def Info: ../figures/solution4.png  used on input line 45.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
- [5 <../figures/water.png> <../figures/solution1.png> <../figures/solution2.png
-> <../figures/solution3.png>]
-<../figures/large_beaker_phase_shifts.png, id=34, 516.0078pt x 377.2494pt>
+<../figures/large_beaker_phase_shifts.png, id=35, 502.2765pt x 377.2494pt>
 File: ../figures/large_beaker_phase_shifts.png Graphic file (type png)
 <use ../figures/large_beaker_phase_shifts.png>
 Package pdftex.def Info: ../figures/large_beaker_phase_shifts.png  used on inpu
-t line 56.
-(pdftex.def)             Requested size: 246.0pt x 179.8458pt.
-<../figures/medium_beaker_phase_shifts.png, id=35, 516.0078pt x 377.2494pt>
+t line 57.
+(pdftex.def)             Requested size: 246.0pt x 184.76747pt.
+<../figures/medium_beaker_phase_shifts.png, id=36, 502.2765pt x 377.2494pt>
 File: ../figures/medium_beaker_phase_shifts.png Graphic file (type png)
 <use ../figures/medium_beaker_phase_shifts.png>
 Package pdftex.def Info: ../figures/medium_beaker_phase_shifts.png  used on inp
-ut line 64.
-(pdftex.def)             Requested size: 246.0pt x 179.8458pt.
-<../figures/small_beaker_phase_shifts.png, id=36, 516.0078pt x 377.2494pt>
+ut line 65.
+(pdftex.def)             Requested size: 246.0pt x 184.76747pt.
+<../figures/small_beaker_phase_shifts.png, id=37, 502.2765pt x 377.2494pt>
 File: ../figures/small_beaker_phase_shifts.png Graphic file (type png)
 <use ../figures/small_beaker_phase_shifts.png>
 Package pdftex.def Info: ../figures/small_beaker_phase_shifts.png  used on inpu
-t line 72.
-(pdftex.def)             Requested size: 246.0pt x 179.8458pt.
-) [6 <../figures/solution4.png> <../figures/large_beaker_phase_shifts.png> <../
-figures/medium_beaker_phase_shifts.png>] (conclusion.tex)
+t line 73.
+(pdftex.def)             Requested size: 246.0pt x 184.76747pt.
+ [6 <../figures/solution3.png> <../figures/solution4.png> <../figures/large_bea
+ker_phase_shifts.png> <../figures/medium_beaker_phase_shifts.png>]
+<../figures/concentration_times_diameter_phase_shifts.png, id=46, 502.2765pt x 
+382.3083pt>
+File: ../figures/concentration_times_diameter_phase_shifts.png Graphic file (ty
+pe png)
+<use ../figures/concentration_times_diameter_phase_shifts.png>
+Package pdftex.def Info: ../figures/concentration_times_diameter_phase_shifts.p
+ng  used on input line 81.
+(pdftex.def)             Requested size: 246.0pt x 187.2452pt.
+) (conclusion.tex)
 No file main.bbl.
-[7 <../figures/small_beaker_phase_shifts.png>] (main.aux)
+[7 <../figures/small_beaker_phase_shifts.png> <../figures/concentration_times_d
+iameter_phase_shifts.png>] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5002 strings out of 477183
- 72458 string characters out of 5809388
- 1956791 words of memory out of 5000000
- 26225 multiletter control sequences out of 15000+600000
- 565528 words of font info for 63 fonts, out of 8000000 for 9000
+ 5027 strings out of 477183
+ 73158 string characters out of 5809388
+ 1957791 words of memory out of 5000000
+ 26244 multiletter control sequences out of 15000+600000
+ 568423 words of font info for 74 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 71i,8n,79p,1018b,289s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,9n,79p,1022b,289s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx9.p
-fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.p
-fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pf
-b></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti9.pf
-b>
-Output written on main.pdf (7 pages, 310536 bytes).
+fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi9.
+pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.p
+fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.p
+fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti9.p
+fb>
+Output written on main.pdf (7 pages, 366027 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
