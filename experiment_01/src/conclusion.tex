@@ -1,2 +1,11 @@
-% Thoughts for future experiments or imporovents to the current one
+%% Notes
+% Important results summarized in a breif and very specific (quantitative) manner.
+% Thoughts for future experiments or improvements to the current experiment.
 
+Both the concentration of the solution and the path length by which the light travels through the solution affect the polarization of light. The phase shift of the light as a function of the concentration and path length is given by the following equation (see Figure \ref{fig:concentration_times_diameter_phase_shifts}):
+
+\begin{equation}
+\phi = 0.02319773(M*L) + 0.03743414,
+\end{equation}
+
+where $\phi$ is the phase shift in radians, M is the concentration in grams per milliliter, and L is the path length in millimeters. This equation was obtained by fitting the data to a linear function using numpy's polyfit function. Therefore, it is found the phase shift changes at a rate of 0.02319773 radians per gram millimeter per milliliter.

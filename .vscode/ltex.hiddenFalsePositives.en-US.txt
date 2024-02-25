@@ -1,0 +1,1 @@
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QPhase shift in radians versus concentration in grams per milliliter for the small beaker.\\E$"}
