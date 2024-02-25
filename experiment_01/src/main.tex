@@ -1,5 +1,6 @@
 \documentclass[%
  reprint,
+ lengthcheck,
 %superscriptaddress,
 %groupedaddress,
 %unsortedaddress,
@@ -10,14 +11,14 @@
 %nofootinbib,
 %nobibnotes,
 %bibnotes,
- amsmath,amssymb,
+ amsmath, amssymb,
  aps, twocolumn,
 %pra,
 %prb,
 %rmp,
 %prstab,
 %prstper,
-%floatfix,
+floatfix
 ]{revtex4-2}
 
 \usepackage{graphicx}% Include figure files
@@ -35,7 +36,7 @@
 %%margin=1.5in,
 %%total={6.5in,8.75in}, top=1.2in, left=0.9in, includefoot,
 %%height=10in,a5paper,hmargin={3cm,0.8in},
-%]{geometry}
+%%]{geometry}
 
 \renewcommand{\thetable}{\arabic{table}}
 
@@ -75,7 +76,8 @@
 
 \section{Conclusion}
 \input{conclusion.tex}
-    
-\bibliography{apssamp}% Produces the bibliography via BibTeX.
+
+\nocite{*}
+\bibliography{main}% Produces the bibliography via BibTeX.
 
 \end{document}

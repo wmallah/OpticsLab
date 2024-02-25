@@ -2,10 +2,12 @@
 % Important results summarized in a breif and very specific (quantitative) manner.
 % Thoughts for future experiments or improvements to the current experiment.
 
-Both the concentration of the solution and the path length by which the light travels through the solution affect the polarization of light. The phase shift of the light as a function of the concentration and path length is given by the following equation (see Figure \ref{fig:concentration_times_diameter_phase_shifts}):
 
+% Important results
+Both the concentration of the solution and the path length (distance which the light travels through the solution) affect the polarization of light. The phase shift of the light as a function of the concentration and path length is given by the following equation (extracted from Figure \ref{fig:concentration_times_diameter_phase_shifts}):
 \begin{equation}
 \phi = 0.02319773(M*L) + 0.03743414,
 \end{equation}
+where $\phi$ is the phase shift in radians, M is the concentration in grams per milliliter, and L is the path length in millimeters. This equation was obtained by fitting the data to a linear function using the "numpy" polyfit function. Therefore, we found that the phase shift changes at a rate of $0.02319773$ radians per gram millimeter per milliliter. It should also be noted that the R$^2$ of \ref{fig:concentration_times_diameter_phase_shifts} is $0.970$, leading us to belive that phase shift as a function of sugar concentration times path length of light is linear. This result agrees with the previously mentioned paper by K. Sofjan Firdausi et al, where it was shown that the change in polarization as a function of sugar concentration in solution is linear\cite{Firsdausi2018}.
 
-where $\phi$ is the phase shift in radians, M is the concentration in grams per milliliter, and L is the path length in millimeters. This equation was obtained by fitting the data to a linear function using numpy's polyfit function. Therefore, it is found the phase shift changes at a rate of 0.02319773 radians per gram millimeter per milliliter.
+% Thoughts for future experiments or improvements to the current experiment
