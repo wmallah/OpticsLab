@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.2.20)  25 FEB 2024 17:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.2.20)  25 FEB 2024 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -349,20 +349,6 @@ Underfull \hbox (badness 1009) in paragraph at lines 11--12
  []
 
 ) (methods.tex
-
-LaTeX Warning: Reference `table:solution_concentration' on page 1 undefined on 
-input line 11.
-
-
-LaTeX Warning: Reference `table:beaker_diameters' on page 1 undefined on input 
-line 11.
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 11--12
-\OT1/cmr/m/n/10 was measured using a graduated cylinder with an
- []
-
-
 Underfull \hbox (badness 1303) in paragraph at lines 11--12
 \OT1/cmr/m/n/10 the intensity contributed most of the measurement
  []
@@ -378,52 +364,52 @@ Underfull \hbox (badness 1132) in paragraph at lines 69--70
 \OT1/cmr/m/n/10 solution. Each graph demonstrates the curves for
  []
 
-<../figures/no_water.png, id=14, 502.2765pt x 377.2494pt>
+<../figures/no_water.png, id=13, 502.2765pt x 377.2494pt>
 File: ../figures/no_water.png Graphic file (type png)
 <use ../figures/no_water.png>
 Package pdftex.def Info: ../figures/no_water.png  used on input line 73.
 (pdftex.def)             Requested size: 246.0pt x 184.76747pt.
 [2 <../figures/no_water.png>]
-<../figures/water.png, id=21, 497.2176pt x 377.2494pt>
+<../figures/water.png, id=20, 497.2176pt x 377.2494pt>
 File: ../figures/water.png Graphic file (type png)
 <use ../figures/water.png>
 Package pdftex.def Info: ../figures/water.png  used on input line 134.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
-<../figures/solution1.png, id=22, 496.4949pt x 376.5267pt>
+<../figures/solution1.png, id=21, 496.4949pt x 376.5267pt>
 File: ../figures/solution1.png Graphic file (type png)
 <use ../figures/solution1.png>
 Package pdftex.def Info: ../figures/solution1.png  used on input line 196.
 (pdftex.def)             Requested size: 246.0pt x 186.56226pt.
  [3 <../figures/water.png> <../figures/solution1.png>]
-<../figures/solution2.png, id=28, 497.2176pt x 377.2494pt>
+<../figures/solution2.png, id=27, 497.2176pt x 377.2494pt>
 File: ../figures/solution2.png Graphic file (type png)
 <use ../figures/solution2.png>
 Package pdftex.def Info: ../figures/solution2.png  used on input line 257.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
-<../figures/solution3.png, id=29, 497.2176pt x 377.2494pt>
+<../figures/solution3.png, id=28, 497.2176pt x 377.2494pt>
 File: ../figures/solution3.png Graphic file (type png)
 <use ../figures/solution3.png>
 Package pdftex.def Info: ../figures/solution3.png  used on input line 318.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
  [4 <../figures/solution2.png> <../figures/solution3.png>]
-<../figures/solution4.png, id=35, 497.2176pt x 377.2494pt>
+<../figures/solution4.png, id=34, 497.2176pt x 377.2494pt>
 File: ../figures/solution4.png Graphic file (type png)
 <use ../figures/solution4.png>
 Package pdftex.def Info: ../figures/solution4.png  used on input line 379.
 (pdftex.def)             Requested size: 246.0pt x 186.6498pt.
-<../figures/large_beaker_phase_shifts.png, id=36, 502.2765pt x 377.2494pt>
+<../figures/large_beaker_phase_shifts.png, id=35, 502.2765pt x 377.2494pt>
 File: ../figures/large_beaker_phase_shifts.png Graphic file (type png)
 <use ../figures/large_beaker_phase_shifts.png>
 Package pdftex.def Info: ../figures/large_beaker_phase_shifts.png  used on inpu
 t line 389.
 (pdftex.def)             Requested size: 246.0pt x 184.76747pt.
-<../figures/medium_beaker_phase_shifts.png, id=37, 502.2765pt x 377.2494pt>
+<../figures/medium_beaker_phase_shifts.png, id=36, 502.2765pt x 377.2494pt>
 File: ../figures/medium_beaker_phase_shifts.png Graphic file (type png)
 <use ../figures/medium_beaker_phase_shifts.png>
 Package pdftex.def Info: ../figures/medium_beaker_phase_shifts.png  used on inp
 ut line 397.
 (pdftex.def)             Requested size: 246.0pt x 184.76747pt.
-<../figures/small_beaker_phase_shifts.png, id=38, 502.2765pt x 377.2494pt>
+<../figures/small_beaker_phase_shifts.png, id=37, 502.2765pt x 377.2494pt>
 File: ../figures/small_beaker_phase_shifts.png Graphic file (type png)
 <use ../figures/small_beaker_phase_shifts.png>
 Package pdftex.def Info: ../figures/small_beaker_phase_shifts.png  used on inpu
@@ -431,7 +417,7 @@ t line 405.
 (pdftex.def)             Requested size: 246.0pt x 184.76747pt.
  [5 <../figures/solution4.png> <../figures/large_beaker_phase_shifts.png> <../f
 igures/medium_beaker_phase_shifts.png>]
-<../figures/concentration_times_diameter_phase_shifts.png, id=45, 502.2765pt x 
+<../figures/concentration_times_diameter_phase_shifts.png, id=44, 502.2765pt x 
 382.3083pt>
 File: ../figures/concentration_times_diameter_phase_shifts.png Graphic file (ty
 pe png)
@@ -463,34 +449,29 @@ Class revtex4-2 Info: Total text: Column(7210pt), Page(154pt) on input line 83.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 5061 strings out of 477183
- 73746 string characters out of 5809388
+ 5059 strings out of 477183
+ 73692 string characters out of 5809388
  1957791 words of memory out of 5000000
- 26275 multiletter control sequences out of 15000+600000
+ 26273 multiletter control sequences out of 15000+600000
  568423 words of font info for 74 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  71i,9n,79p,1022b,300s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.p
-fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx9.
-pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10
-.pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi9
-.pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.
-pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.p
-fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.
-pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti9.
-pfb>
-Output written on main.pdf (7 pages, 401940 bytes).
+</home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx9.p
+fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi9.
+pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.p
+fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pf
+b></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.p
+fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti9.p
+fb>
+Output written on main.pdf (7 pages, 391832 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
