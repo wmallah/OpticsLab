@@ -1,4 +1,4 @@
-Tables 1-6 provide the raw data for polarization angle, intesnity, and intensity error. The error in each polarization measurement was $\pm 2$ degress, while the error in intensity measurement varied.
+\Cref{no_water_table,water_table,solution1_table,solution2_table,solution3_table,solution4_table} provide the raw data for polarization angle, intesnity, and intensity error. The error in each polarization measurement was $\pm 2$ degress, while the error in intensity measurement varied.
 
 \begin{table}[H]
 	\begin{center}
@@ -63,7 +63,7 @@ Tables 1-6 provide the raw data for polarization angle, intesnity, and intensity
 		\end{tabular}}
 	\end{center}
 	\caption{Data for the no beaker, small beaker, medium beaker, and large beaker without water. The polarization was measured in degrees, and both intensity and intensity error were measured in arbitrary units.}
-	\label{tab:no_water}
+	\label{no_water_table}
 \end{table}
 
 Figures 2-7 show the intensity versus polarization with each separate graph containing data from a single solution. Each graph demonstrates the curves for different beaker sizes (small, medium, large) as seen by the legend.
@@ -73,7 +73,7 @@ Figures 2-7 show the intensity versus polarization with each separate graph cont
         \includegraphics[width=\columnwidth]{../figures/no_water.png}
     \end{center}
     \caption{Intensity vs. Polarization for varying beaker sizes with no water. The polarization was measured in degrees and the intensity was measured in arbitrary units.}
-    \label{fig:no_water}
+    \label{no_water_figure}
 \end{figure}
 
 \begin{table}[H]
@@ -126,7 +126,7 @@ Figures 2-7 show the intensity versus polarization with each separate graph cont
 		\end{tabular}}
 	\end{center}
 	\caption{Data for the small beaker, medium beaker, and large beaker with water. The polarization was measured in degrees, and both intensity and intensity error were measured in arbitrary units.}
-	\label{tab:water}
+	\label{water_table}
 \end{table}
 
 \begin{figure}[H]
@@ -134,7 +134,7 @@ Figures 2-7 show the intensity versus polarization with each separate graph cont
         \includegraphics[width=\columnwidth]{../figures/water.png}
     \end{center}
     \caption{Intensity vs. Polarization for varying beaker sizes with water. The polarization was measured in degrees and the intensity was measured in arbitrary units.}
-    \label{fig:water}
+    \label{water_figure}
 \end{figure}
 
 \begin{table}[H]
@@ -188,7 +188,7 @@ Figures 2-7 show the intensity versus polarization with each separate graph cont
 		\end{tabular}}
 	\end{center}
 	\caption{Data for the small beaker, medium beaker, and large beaker with solution 1. The polarization was measured in degrees, and both intensity and intensity error were measured in arbitrary units.}
-	\label{tab:solution1}
+	\label{solution1_table}
 \end{table}
 
 \begin{figure}[H]
@@ -196,7 +196,7 @@ Figures 2-7 show the intensity versus polarization with each separate graph cont
         \includegraphics[width=\columnwidth]{../figures/solution1.png}
     \end{center}
     \caption{Intensity vs. Polarization for varying beaker sizes with solution 1. The polarization was measured in degrees and was intensity is measured in arbitrary units.}
-    \label{fig:solution1}
+    \label{solution1_figure}
 \end{figure}
 
 \begin{table}[H]
@@ -249,7 +249,7 @@ Figures 2-7 show the intensity versus polarization with each separate graph cont
 		\end{tabular}}
 	\end{center}
 	\caption{Data for the small beaker, medium beaker, and large beaker with solution 2. The polarization was measured in degrees, and both intensity and intensity error were measured in arbitrary units.}
-	\label{tab:solution2}
+	\label{solution2_table}
 \end{table}
 
 \begin{figure}[H]
@@ -257,7 +257,7 @@ Figures 2-7 show the intensity versus polarization with each separate graph cont
         \includegraphics[width=\columnwidth]{../figures/solution2.png}
     \end{center}
     \caption{Intensity vs. Polarization for varying beaker sizes with solution 2. The polarization was measured in degrees and the intensity was measured in arbitrary units.}
-    \label{fig:solution2}
+    \label{solution2_figure}
 \end{figure}
 
 \begin{table}[H]
@@ -310,7 +310,7 @@ Figures 2-7 show the intensity versus polarization with each separate graph cont
 		\end{tabular}}
 	\end{center}
 	\caption{Data for the small beaker, medium beaker, and large beaker with solution 3. The polarization was measured in degrees, and both intensity and intensity error were measured in arbitrary units.}
-	\label{tab:solution3}
+	\label{solution3_table}
 \end{table}
 
 \begin{figure}[H]
@@ -318,7 +318,7 @@ Figures 2-7 show the intensity versus polarization with each separate graph cont
         \includegraphics[width=\columnwidth]{../figures/solution3.png}
     \end{center}
     \caption{Intensity vs. Polarization for varying beaker sizes with solution 3. The polarization was measured in degrees and the intensity was measured in arbitrary units.}
-    \label{fig:solution3}
+    \label{solution3_figure}
 \end{figure}
 
 \begin{table}[H]
@@ -371,7 +371,7 @@ Figures 2-7 show the intensity versus polarization with each separate graph cont
 		\end{tabular}}
 	\end{center}
 	\caption{Data for the small beaker, medium beaker, and large beaker with solution 4. The polarization was measured in degrees, and both intensity and intensity error were measured in arbitrary units.}
-	\label{tab:solution4}
+	\label{solution4_table}
 \end{table}
 
 \begin{figure}[H]
@@ -379,17 +379,27 @@ Figures 2-7 show the intensity versus polarization with each separate graph cont
         \includegraphics[width=\columnwidth]{../figures/solution4.png}
     \end{center}
     \caption{Intensity vs. Polarization for varying beaker sizes with solution 4. The polarization was measured in degrees and the intensity was measured in arbitrary units.}
-    \label{fig:solution4}
+    \label{solution4_figure}
 \end{figure}
 
-Figures 8-10 show the phase shift as a function of sugar concentration in water, with each separate graph containing data from one beaker size. By representing phase shift versus sugar concentration, we can quantify how the polarization of light changes as a function of sugar concentration in water.
+The following graph (\cref{solution4_small_beaker_fit_figure}) is an example of fitting a cosine function to the intensity versus polarization data for each concentration and beaker size. Fitting the data to this generic cosine function allowed us to extract the phase shift for each trial run.
+
+\begin{figure}[H]
+	\begin{center}
+		\includegraphics[width=\columnwidth]{../figures/solution4_small_beaker_fit.png}
+	\end{center}
+	\caption{Example graph of the intensity versus polarization angle plot for solution 4 in the small beaker to show how phase shift values were determined.}
+	\label{solution4_small_beaker_fit_figure}
+\end{figure}
+
+\Cref{large_beaker_phase_shifts_figure,medium_beaker_phase_shifts_figure,small_beaker_phase_shifts_figure} show the phase shift as a function of sugar concentration in water, with each separate graph containing data from one beaker size. By representing phase shift versus sugar concentration, we can quantify how the polarization of light changes as a function of sugar concentration in water.
 
 \begin{figure}[H]
     \begin{center}
         \includegraphics[width=\columnwidth]{../figures/large_beaker_phase_shifts.png}
     \end{center}
     \caption{Phase shift in radians versus concentration in grams per milliliter for the large beaker.}
-    \label{fig:large_beaker_phase_shifts}
+    \label{large_beaker_phase_shifts_figure}
 \end{figure}
 
 \begin{figure}[H]
@@ -397,7 +407,7 @@ Figures 8-10 show the phase shift as a function of sugar concentration in water,
         \includegraphics[width=\columnwidth]{../figures/medium_beaker_phase_shifts.png}
     \end{center}
     \caption{Phase shift in radians versus concentration in grams per milliliter for the medium beaker.}
-    \label{fig:medium_beaker_phase_shifts}
+    \label{medium_beaker_phase_shifts_figure}
 \end{figure}
 
 \begin{figure}[H]
@@ -405,7 +415,7 @@ Figures 8-10 show the phase shift as a function of sugar concentration in water,
         \includegraphics[width=\columnwidth]{../figures/small_beaker_phase_shifts.png}
     \end{center}
     \caption{Phase shift in radians versus concentration in grams per milliliter for the small beaker.}
-    \label{fig:small_beaker_phase_shifts}
+    \label{small_beaker_phase_shifts_figure}
 \end{figure}
 
 \begin{figure}[H]
@@ -413,7 +423,7 @@ Figures 8-10 show the phase shift as a function of sugar concentration in water,
 		\includegraphics[width=\columnwidth]{../figures/concentration_times_diameter_phase_shifts.png}
 	\end{center}
 	\caption{This figure encapsulates the phase shift in radians as a function of both concentration in grams per milliliter and the path length in millimeters, where the horizontal axis is the product of the concentration and path length values.}
-	\label{fig:concentration_times_diameter_phase_shifts}
+	\label{concentration_times_diameter_phase_shifts_figure}
 \end{figure}
 
 \begin{table}[H]
@@ -431,7 +441,7 @@ Figures 8-10 show the phase shift as a function of sugar concentration in water,
 		\end{tabular}}
 	\end{center}
 	\caption{Raw data for sugar solution concentrations with mass measured in grams, volume measured in mililiters, and concentration measured in grams per milileter.}
-	\label{tab:solution_concentration}
+	\label{solution_concentration_table}
 \end{table}
 
 \begin{table}[H]
@@ -448,5 +458,5 @@ Figures 8-10 show the phase shift as a function of sugar concentration in water,
 		\end{tabular}}
 	\end{center}
 	\caption{Raw data for the diameters (representing path length) of each beaker size in milimeters.}
-	\label{tab:beaker_diameters}
+	\label{beaker_diameters_table}
 \end{table}
