@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.24)  25 MAR 2024 20:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.24)  25 MAR 2024 23:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -447,7 +447,7 @@ Class revtex4-2 Info: Total figure: Column(0pt), Page(0pt) on input line 84.
 Class revtex4-2 Info: Total table: Column(0pt), Page(0pt) on input line 84.
 Class revtex4-2 Info: Total video: Column(0pt), Page(0pt) on input line 84.
  [7]
-Class revtex4-2 Info: Total text: Column(7604pt), Page(208pt) on input line 84.
+Class revtex4-2 Info: Total text: Column(7605pt), Page(208pt) on input line 84.
 
  (main.aux)
  ***********
@@ -462,21 +462,22 @@ Here is how much of TeX's memory you used:
  27977 multiletter control sequences out of 15000+600000
  568423 words of font info for 74 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 71i,9n,79p,1081b,281s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,10n,79p,1081b,281s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx9.p
 fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.
 pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi9.
 pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.
-pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.p
-fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pf
-b></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.p
-fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti9.p
-fb>
-Output written on main.pdf (7 pages, 470327 bytes).
+pfb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.p
+fb></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pf
+b></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb
+></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.pf
+b></home/wmallah/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti9.pf
+b>
+Output written on main.pdf (7 pages, 478996 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
+ 113 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
